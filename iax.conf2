@@ -1,0 +1,8 @@
+[allstar]
+type=peer
+username=dvswitch
+secret=yourpassword
+host=your.allstar.server
+context=radio
+disallow=all
+allow=ulaw
